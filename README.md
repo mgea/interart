@@ -8,7 +8,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## La muestra
 
-* [Obras seleccionadas 2018](https://github.com/mgea/interart/2018/readme.md)
+* [Obras seleccionadas 2018](./2018/readme.md)
 
 
 
