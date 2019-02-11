@@ -12,6 +12,8 @@ Obras seleccionadas
 
 /2018 
 
-- [Noelia Barranco](https://github.com/nmbarancos01) Portfolio nmbarancos01.github.io
+- [Noelia Barranco](https://github.com/nmbarancos01) Portfolio https://nmbarancos01.github.io
+- [Leticia Espinar]       BBAAquizz https://leticiaespinar.github.io/
+
 
 
