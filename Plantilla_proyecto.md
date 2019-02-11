@@ -23,8 +23,7 @@ Storyboard:
 Autor: 
 - :man: 
 - :woman: 
-- :github: 
-
+- Github :octocat: 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
