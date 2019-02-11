@@ -9,11 +9,9 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## La muestra
 
-* [Obras seleccionadas 2018](./2018/readme.md)
-* [Ejemplo de plantilla](http://mgea.github.com/cmi)
-
-
-
+- [Obras seleccionadas 2018](./2018/readme.md)
+- [Ejemplo de proyecto en github.io](http://mgea.github.io/cmi) clonando este repositorio (http://github.com/mgea/cmi) 
+- [Ficha plantilla de proyecto](./Plantilla_proyecto.md)
 
 ## Acerca de este proyecto:
 
