@@ -1,5 +1,6 @@
 # interart
 
+!(./logo_cmi2.png)
 Digital Interactive art / Muestra colectiva de arte interactivo 
 
 Muestra de trabajos de Creación Multimedia Interactiva 
