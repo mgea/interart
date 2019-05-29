@@ -8,7 +8,7 @@ Muestra de trabajos de Creación Multimedia Interactiva
 Facultad de Bellas Artes, Universidad de Granada
 
 ## La muestra
-- [Ejemplo de proyectos interactivos](./2018/ejemplos.md)
+- [Ejemplo de proyectos interactivos](./2018/ejemplos.md) (internacionales)
 - [Obras seleccionadas de alumnos de Bellas Artes de 2018](./2018/readme.md)
 - [Ejemplo de proyecto en github.io](http://mgea.github.io/cmi) clonando este repositorio (http://github.com/mgea/cmi) 
 - [Ficha plantilla de proyecto](./Plantilla_proyecto.md)
