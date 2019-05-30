@@ -4,12 +4,9 @@ Muestra de trabajos del espacio digital interactivo
 
 **Obras seleccionadas**
 
-- Tania Alvarez
-- Ariadna Armas 
-- Lucía Artiles 
-- Sandra Bravo 
-- María Canata 
-- Susana Cano 
+- Candela Lerma Parra: [Yo y mis amigos](https://candelalermaparra.github.io)
+- Susana Cano: [Portfolio](https://susankno.github.io) ¿?
+- Tania Alvarez: [Dossier Artístico](https://taniaalvarez.github.io)
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
