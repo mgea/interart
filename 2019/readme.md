@@ -5,7 +5,7 @@ Muestra de trabajos del espacio digital interactivo
 **Obras seleccionadas**
 
 - TANIA ÁLVAREZ NUÑEZ :clapper: :+1: [Dossier Artístico](https://taniaalvarez.github.io)
-- ARIADNA MARGARITA ARMAS FRAGIEL, 
+- ARIADNA MARGARITA ARMAS FRAGIEL :clapper: :+1: [Portfolio](https://ariaadna.github.io/Portfolio.html)
 - LUCIA ARTILES DE URIOSTE
 - SANDRA BRAVO GARCIA 
 - MARIA DEL PILAR CANATA FERNANDEZ
@@ -16,14 +16,14 @@ Muestra de trabajos del espacio digital interactivo
 - CRISTINA CORDERO GARCIA 
 - CARMEN DAMAS GONZALEZ 
 - JAIME DOMECH SERRANO
-- TANIA ERDOZAIN MUÑOZ
+- TANIA ERDOZAIN MUÑOZ :clapper: :+1: [Portfolio](https://taniaerdozain.github.io)
 - DAVID FONTANILLO PASCUAL 
 - ALBA DE LA FUENTE CINTADO 
 - MIRIAM GALVEZ GIL
 - ELISA ISABEL GARCIA LUQUE 
 - JOSE ANGEL HERNANDEZ NAVARRO
 - LAURA HIDALGO BECERRA
-- LUCIA ELIZABETH JENKINS NEVARES
+- LUCIA ELIZABETH JENKINS NEVARES :clapper: :+1: [Portfolio](https://luciaajenkins.github.io/proyectofinal.html)
 - CANDELA LERMA PARRA :clapper: :+1: :+1: [Yo y mis amigos](https://candelalermaparra.github.io)
 - ALVARO LIGERO GALVEZ
 - IRENE MARQUEZ CONSTAN 
