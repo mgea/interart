@@ -6,11 +6,11 @@ Muestra de trabajos del espacio digital interactivo
 
 - TANIA ÁLVAREZ NUÑEZ :clapper: :+1: [Dossier Artístico](https://taniaalvarez.github.io)
 - ARIADNA MARGARITA ARMAS FRAGIEL :clapper: :+1: [Portfolio](https://ariaadna.github.io/Portfolio.html)
-- LUCIA ARTILES DE URIOSTE
+- LUCIA ARTILES DE URIOSTE. :clapper: :+1: [enterao](https://github.com/luciaartiles/luciaartiles.github.io)
 - SANDRA BRAVO GARCIA 
 - MARIA DEL PILAR CANATA FERNANDEZ. [Kingdom Heart](https://github.com/Evangelineart/Evangelineart.github.io)
 - SUSANA CANO SANCHEZ :clapper: :+1: [Portfolio](https://susankno.github.io) ¿?
-- LAURA CARRASCO SANCHEZ 
+- LAURA CARRASCO SANCHEZ :clapper: [Curriculum interactivo](https://github.com/laliver/laliver.github.io)
 - JOSE CASAS HERNANDEZ 
 - RAUL CHAVES JIMENEZ :clapper: :+1: :+1:  [Juego de tronos](https://github.com/raulchaves/raulchaves.github.io)
 - CRISTINA CORDERO GARCIA 
@@ -19,7 +19,7 @@ Muestra de trabajos del espacio digital interactivo
 - TANIA ERDOZAIN MUÑOZ :clapper: :+1: [Portfolio](https://taniaerdozain.github.io)
 - DAVID FONTANILLO PASCUAL 
 - ALBA DE LA FUENTE CINTADO 
-- MIRIAM GALVEZ GIL
+- MIRIAM GALVEZ GIL.   https://github.com/miriangalvezgil/miriangalvezgil.github.io (no conectado) -> https://miriangalvezgil.github.io
 - ELISA ISABEL GARCIA LUQUE 
 - JOSE ANGEL HERNANDEZ NAVARRO
 - LAURA HIDALGO BECERRA
@@ -28,7 +28,7 @@ Muestra de trabajos del espacio digital interactivo
 - ALVARO LIGERO GALVEZ
 - IRENE MARQUEZ CONSTAN 
 - CLAUDIA MOLERIO SCHIFF  
-- ROBERTO MORENO PEREZ 
+- ROBERTO MORENO PEREZ :+1: [Artesania](https://github.com/robertmorenoartist/robertmorenoartist.github.io)
 - MARIA DEL CARMEN PEREYRA LOPEZ 
 - PAULA PEREZ TORRES
 - YLENIA PUERTAS TRIBALDOS 
