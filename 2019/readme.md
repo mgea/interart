@@ -8,7 +8,7 @@ Muestra de trabajos del espacio digital interactivo
 - ARIADNA MARGARITA ARMAS FRAGIEL :clapper: :+1: [Portfolio](https://ariaadna.github.io/Portfolio.html)
 - LUCIA ARTILES DE URIOSTE
 - SANDRA BRAVO GARCIA 
-- MARIA DEL PILAR CANATA FERNANDEZ
+- MARIA DEL PILAR CANATA FERNANDEZ. [Kingdom Heart](https://github.com/Evangelineart/Evangelineart.github.io)
 - SUSANA CANO SANCHEZ :clapper: :+1: [Portfolio](https://susankno.github.io) ¿?
 - LAURA CARRASCO SANCHEZ 
 - JOSE CASAS HERNANDEZ 
