@@ -12,7 +12,7 @@ Muestra de trabajos del espacio digital interactivo
 - SUSANA CANO SANCHEZ :clapper: :+1: [Portfolio](https://susankno.github.io) ¿?
 - LAURA CARRASCO SANCHEZ 
 - JOSE CASAS HERNANDEZ 
-- RAUL CHAVES JIMENEZ 
+- RAUL CHAVES JIMENEZ :clapper: :+1: :+1:  [Juego de tronos](https://github.com/raulchaves/raulchaves.github.io)
 - CRISTINA CORDERO GARCIA 
 - CARMEN DAMAS GONZALEZ 
 - JAIME DOMECH SERRANO
