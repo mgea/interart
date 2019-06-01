@@ -38,7 +38,7 @@ Muestra de trabajos del espacio digital interactivo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
-Junio 2018 
+Junio 2019 
 
 [Creacion Multimedia Interactiva](http://utopolis.ugr.es/cmi)
 
