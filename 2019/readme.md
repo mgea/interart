@@ -19,7 +19,7 @@ Muestra de trabajos del espacio digital interactivo
 - TANIA ERDOZAIN MUÑOZ :clapper: :+1: [Portfolio](https://taniaerdozain.github.io)
 - DAVID FONTANILLO PASCUAL 
 - ALBA DE LA FUENTE CINTADO 
-- MIRIAM GALVEZ GIL.  [Github](https://github.com/miriangalvezgil/miriangalvezgil.github.io) -> https://miriangalvezgil.github.io
+- MIRIAM GALVEZ GIL.  [Github](https://github.com/miriangalvezgil/miriangalvezgil.github.io) -> (https://miriangalvezgil.github.io)
 - ELISA ISABEL GARCIA LUQUE 
 - JOSE ANGEL HERNANDEZ NAVARRO
 - LAURA HIDALGO BECERRA
