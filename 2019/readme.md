@@ -7,7 +7,7 @@ Muestra de trabajos del espacio digital interactivo
 - TANIA ÁLVAREZ NUÑEZ :clapper: :+1: [Dossier Artístico](https://taniaalvarez.github.io)
 - ARIADNA MARGARITA ARMAS FRAGIEL :clapper: :+1: [Portfolio](https://ariaadna.github.io/Portfolio.html)
 - LUCIA ARTILES DE URIOSTE. :clapper: :+1: [enterao](https://github.com/luciaartiles/luciaartiles.github.io)
-- SANDRA BRAVO GARCIA 
+- SANDRA BRAVO GARCIA [Meets the artist](https://github.com/Tremenduskah/tremenduskah.github.io)
 - MARIA DEL PILAR CANATA FERNANDEZ. [Kingdom Heart](https://github.com/Evangelineart/Evangelineart.github.io)
 - SUSANA CANO SANCHEZ :clapper: :+1: [Portfolio](https://susankno.github.io) 
 - LAURA CARRASCO SANCHEZ :clapper: [Curriculum interactivo](https://github.com/laliver/laliver.github.io)
