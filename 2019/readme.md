@@ -9,13 +9,13 @@ Muestra de trabajos del espacio digital interactivo
 - LUCIA ARTILES DE URIOSTE. :clapper: :+1: [enterao](https://github.com/luciaartiles/luciaartiles.github.io)
 - SANDRA BRAVO GARCIA 
 - MARIA DEL PILAR CANATA FERNANDEZ. [Kingdom Heart](https://github.com/Evangelineart/Evangelineart.github.io)
-- SUSANA CANO SANCHEZ :clapper: :+1: [Portfolio](https://susankno.github.io) ¿?
+- SUSANA CANO SANCHEZ :clapper: :+1: [Portfolio](https://susankno.github.io) 
 - LAURA CARRASCO SANCHEZ :clapper: [Curriculum interactivo](https://github.com/laliver/laliver.github.io)
 - JOSE CASAS HERNANDEZ 
 - RAUL CHAVES JIMENEZ :clapper: :+1: :+1:  [Juego de tronos](https://github.com/raulchaves/raulchaves.github.io)
-- CRISTINA CORDERO GARCIA 
-- CARMEN DAMAS GONZALEZ 
-- JAIME DOMECH SERRANO
+- CRISTINA CORDERO GARCIA. [MecorLife](https://github.com/orezero18/orezero18.github.io)
+- CARMEN DAMAS GONZALEZ ?? https://kleililk.github.io 
+- JAIME DOMECH SERRANO. :flushed:  https://github.com/jamesl9/jamesl9.github.io
 - TANIA ERDOZAIN MUÑOZ :clapper: :+1: [Portfolio](https://taniaerdozain.github.io)
 - DAVID FONTANILLO PASCUAL 
 - ALBA DE LA FUENTE CINTADO 
@@ -27,10 +27,10 @@ Muestra de trabajos del espacio digital interactivo
 - CANDELA LERMA PARRA :clapper: :+1: :+1: [Yo y mis amigos](https://candelalermaparra.github.io)
 - ALVARO LIGERO GALVEZ
 - IRENE MARQUEZ CONSTAN 
-- CLAUDIA MOLERIO SCHIFF  
+- CLAUDIA MOLERIO SCHIFF  :+1: [mi Portfolio](https://github.com/Claumschiff/Claumschiff.github.io)
 - ROBERTO MORENO PEREZ :+1: [Artesania](https://github.com/robertmorenoartist/robertmorenoartist.github.io)
 - MARIA DEL CARMEN PEREYRA LOPEZ 
-- PAULA PEREZ TORRES
+- PAULA PEREZ TORRES. [Github](https://github.com/paulapereztorres/paulapereztorres.github.io) (https://paulapereztorres.github.io)
 - YLENIA PUERTAS TRIBALDOS 
 - ANDREA SICILIA RUEDA 
 
