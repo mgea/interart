@@ -11,7 +11,7 @@ Muestra de trabajos del espacio digital interactivo
 - MARIA DEL PILAR CANATA FERNANDEZ. [Kingdom Heart](https://github.com/Evangelineart/Evangelineart.github.io)
 - SUSANA CANO SANCHEZ :clapper: :+1: [Portfolio](https://susankno.github.io) 
 - LAURA CARRASCO SANCHEZ :clapper: [Curriculum interactivo](https://github.com/laliver/laliver.github.io)
-- JOSE CASAS HERNANDEZ 
+- JOSE CASAS HERNANDEZ [Github](https://github.com/jasecosas) :+1: [Poesía Visual](https://jasecosas.github.io/) 
 - RAUL CHAVES JIMENEZ :clapper: :+1: :+1:  [Juego de tronos](https://github.com/raulchaves/raulchaves.github.io)
 - CRISTINA CORDERO GARCIA. [MecorLife](https://github.com/orezero18/orezero18.github.io)
 - CARMEN DAMAS GONZALEZ ?? https://kleililk.github.io 
@@ -32,7 +32,7 @@ Muestra de trabajos del espacio digital interactivo
 - MARIA DEL CARMEN PEREYRA LOPEZ ¿? [vacio](https://carmenplop.github.io) 
 - PAULA PEREZ TORRES. :octocat: [Github](https://github.com/paulapereztorres/paulapereztorres.github.io) :clapper:  [Multifest](https://paulapereztorres.github.io)
 - YLENIA PUERTAS TRIBALDOS 
-- ANDREA SICILIA RUEDA 
+- ANDREA SICILIA RUEDA [Portfolio](https://andreasicilia.github.io)
 
 
 
