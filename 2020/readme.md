@@ -27,7 +27,7 @@ Portfolios
 * Julia Jiménez :clapper: [Sketchbook tour](https://juliajimt.github.io) :+1: :+1: :octocat: 	
 https://github.com/juliajimt/juliajimt.github.io
 
-* Miriam Navarro :clapper: [Portfolio](https://miriamnavarro.github.io) :+1: :+1: :octocat: 	
+* Miriam Navarro :clapper: [Portfolio](https://miriamnavarro.github.io) :+1:  :octocat: 	
 https://github.com/miriamnavarro/miriamnavarro.github.io
 
 
