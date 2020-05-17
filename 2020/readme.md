@@ -11,8 +11,10 @@ Trabajos seleccionados
 
 Novelas & Storytelling
 
-*  Rosa Caracuel :clapper: :+1: [Journey](https://batstuff.github.io)  :octocat: https://github.com/batstuff/batstuff.github.io  
+*  Rosa Caracuel :clapper:  [Journey](https://batstuff.github.io)  :+1: :octocat: https://github.com/batstuff/batstuff.github.io  
 
+* Mª José González :clapper: [Cat Detective](http://mjgonzalezdiaz.github.io/CATDetective.html)  :+1: :octocat: 	
+https://github.com/mjgonzalezdiaz/mjgonzalezdiaz.github.io  
 
 Portfolios
 
