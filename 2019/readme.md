@@ -18,20 +18,13 @@ Muestra de trabajos del espacio digital interactivo
 - JAIME DOMECH SERRANO. :flushed:  https://github.com/jamesl9/jamesl9.github.io
 - TANIA ERDOZAIN MUÑOZ :clapper: :+1: [Portfolio](https://taniaerdozain.github.io)
 - DAVID FONTANILLO PASCUAL :octocat: [Github](https://github.com/fontichu/fontichu.github.io) [Portfolio](https://fontichu.github.io) 
-- ALBA DE LA FUENTE CINTADO 
 - MIRIAM GALVEZ GIL.  :octocat:  [Github](https://github.com/miriangalvezgil/miriangalvezgil.github.io) -> (https://miriangalvezgil.github.io)
-- ELISA ISABEL GARCIA LUQUE 
-- JOSE ANGEL HERNANDEZ NAVARRO
-- LAURA HIDALGO BECERRA
 - LUCIA ELIZABETH JENKINS NEVARES :clapper: :+1: [Portfolio](https://luciaajenkins.github.io/proyectofinal.html)
 - CANDELA LERMA PARRA :clapper: :+1: :+1: [Yo y mis amigos](https://candelalermaparra.github.io)
-- ALVARO LIGERO GALVEZ
-- IRENE MARQUEZ CONSTAN 
 - CLAUDIA MOLERIO SCHIFF  :+1: [mi Portfolio](https://github.com/Claumschiff/Claumschiff.github.io)
 - ROBERTO MORENO PEREZ :+1: [Artesania](https://github.com/robertmorenoartist/robertmorenoartist.github.io)
 - MARIA DEL CARMEN PEREYRA LOPEZ ¿? [vacio](https://carmenplop.github.io) 
 - PAULA PEREZ TORRES. :octocat: [Github](https://github.com/paulapereztorres/paulapereztorres.github.io) :clapper:  [Multifest](https://paulapereztorres.github.io)
-- YLENIA PUERTAS TRIBALDOS 
 - ANDREA SICILIA RUEDA [Portfolio](https://andreasicilia.github.io)
 
 
