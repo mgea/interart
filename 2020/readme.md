@@ -1,9 +1,7 @@
 
-interArt 2020
+### interArt 2020
 
-Muestra de trabajos del espacio digital interactivo
-
-Trabajos seleccionados
+Muestra de trabajos del espacio digital interactivo 2019/20. Trabajos seleccionados
 
 
 
