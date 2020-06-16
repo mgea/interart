@@ -30,9 +30,17 @@ https://github.com/juliajimt/juliajimt.github.io
 * Miriam Navarro :clapper: [Portfolio](https://miriamnavarro.github.io) :+1:  :octocat: 	
 https://github.com/miriamnavarro/miriamnavarro.github.io
 
+* María José Rodriguez :clapper: :clapper: [Pasea por mis obras](https://mariajoserr.github.io/) :+1:  :octocat: 	
+https://github.com/mariajoserr/mariajoserr.github.io
 
+ 
 * Alba garcía :clapper: [Portfolio](https://A-dgart.github.io) :+1:  :octocat: 	
 https://github.com/A-dgart/A-dgart.github.io
 
 
+
+Juegos: 
+
+* Abraham Ayala [Machine Crypter](https://abrahamy8.github.io/Practica2)  :octocat: 	 https://github.com/AbrahamY8/AbrahamY8.github.io) 
+* 
 
