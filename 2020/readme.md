@@ -9,7 +9,7 @@ Trabajos seleccionados
 
 
 
-Novelas & Storytelling
+**Novelas & Storytelling**
 
 *  Rosa Caracuel :clapper:  [Journey](https://batstuff.github.io)  :+1: 
 
@@ -26,7 +26,7 @@ Novelas & Storytelling
 
 
 
-Portfolios
+**Portfolios**
 
 * Julia Jiménez :clapper: [Sketchbook tour](https://juliajimt.github.io) :+1: :+1: 
 
@@ -34,7 +34,7 @@ Portfolios
 
 * Miriam Navarro :clapper: [Portfolio](https://miriamnavarro.github.io) :+1:  
 
- :octocat: 	https://github.com/miriamnavarro/miriamnavarro.github.io
+  :octocat: 	https://github.com/miriamnavarro/miriamnavarro.github.io
 
 * María José Rodriguez :clapper: :clapper: [Pasea por mis obras](https://mariajoserr.github.io/) :+1:  
 
@@ -47,7 +47,7 @@ Portfolios
 
 
 
-Juegos: 
+**Juegos**
 
 * Abraham Ayala [Machine Crypter](https://abrahamy8.github.io/Practica2)  
 
