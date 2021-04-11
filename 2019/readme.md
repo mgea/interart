@@ -2,6 +2,8 @@
 
 Muestra de trabajos del espacio digital interactivo 
 
+- Collage de selfies: https://utopolis.ugr.es/media/cmi/collage19/
+
 **Obras seleccionadas**
 
 - TANIA ÁLVAREZ NUÑEZ :clapper: :+1: [Dossier Artístico](https://taniaalvarez.github.io)
