@@ -11,7 +11,7 @@ Muestra de trabajos del espacio digital interactivo 2020/21. Trabajos selecciona
 
    :octocat: https://github.com/mrfrancli/mrfrancli.github.io 
 
-![quienes](https://github.com/mrfrancli/mrfrancli.github.io/raw/master/logo.png9 
+![quienes](https://github.com/mrfrancli/mrfrancli.github.io/raw/master/logo.png) 
 
 * Alicia García Moral :clapper: [Los cazafantasmas](https://alicedibujos.github.io/)  :+1: 
 
