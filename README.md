@@ -9,6 +9,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## La muestra
 - [Ejemplo de proyectos interactivos](./2018/ejemplos.md) (internacionales)
+- [Obras seleccionadas de alumnos de Bellas Artes de 2021](./2021/readme.md)
 - [Obras seleccionadas de alumnos de Bellas Artes de 2020](./2020/readme.md)
 - [Obras seleccionadas de alumnos de Bellas Artes de 2019](./2019/readme.md)
 - [Obras seleccionadas de alumnos de Bellas Artes de 2018](./2018/readme.md)
