@@ -5,49 +5,23 @@ Muestra de trabajos del espacio digital interactivo 2020/21. Trabajos selecciona
 
 
 
-
 **Novelas & Storytelling**
 
-*  Rosa Caracuel :clapper:  [Journey](https://batstuff.github.io)  :+1: 
+*  Juan Jose Gutiérrez:clapper:  [Quien eres tu?](https://mrfrancli.github.io/index.html)  :+1: 
 
-   :octocat: https://github.com/batstuff/batstuff.github.io  
+   :octocat: https://github.com/mrfrancli/mrfrancli.github.io 
 
-* Mª José González :clapper: [Cat Detective](https://mjgonzalezdiaz.github.io/CATDetective.html)  :+1: :+1: 
+![quienes](https://github.com/mrfrancli/mrfrancli.github.io/raw/master/logo.png9 
 
-  :octocat: 	 https://github.com/mjgonzalezdiaz/mjgonzalezdiaz.github.io  
+* Alicia García Moral :clapper: [Los cazafantasmas](https://alicedibujos.github.io/)  :+1: 
 
-* Sandra Valdivieso :clapper: [Be my Valentine](https://sandradomz.github.io/)  :+1: :+1: 
+  :octocat: 	https://github.com/Alicedibujos/alicedibujos.github.io
+  
+  ![Cazafantasmas](https://user-images.githubusercontent.com/84901449/122607764-5a54e500-d07b-11eb-8fbf-f496ff2d173f.png) 
 
-  :octocat:  https://github.com/SandraDomz/sandradomz.github.io  
+* Lola González Prieto :clapper: [Alfred's Story](https://alfredsstory.github.io)  :+1: :+1: 
 
-
-
-
-**Portfolios**
-
-* Julia Jiménez :clapper: [Sketchbook tour](https://juliajimt.github.io) :+1: :+1: 
-
-  :octocat:  https://github.com/juliajimt/juliajimt.github.io
-
-* Miriam Navarro :clapper: [Portfolio](https://miriamnavarro.github.io) :+1:  
-
-  :octocat: 	https://github.com/miriamnavarro/miriamnavarro.github.io
-
-* María José Rodriguez :clapper: :clapper: [Pasea por mis obras](https://mariajoserr.github.io/) :+1:  
-
-  :octocat: https://github.com/mariajoserr/mariajoserr.github.io
-
- 
-* Alba garcía :clapper: [Portfolio](https://A-dgart.github.io) :+1:  
-
-  :octocat: 	 https://github.com/A-dgart/A-dgart.github.io
+  :octocat:  https://github.com/AlfredsStory/AlfredsStory.github.io  
 
 
-
-**Juegos**
-
-* Abraham Ayala [Machine Crypter](https://abrahamy8.github.io/Practica2)  
-
-  :octocat: 	 https://github.com/AbrahamY8/AbrahamY8.github.io 
-
-* 
+ ![Alfred](https://github.com/AlfredsStory/AlfredsStory.github.io/raw/master/medios/t%C3%ADtulo.png) 
