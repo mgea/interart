@@ -1,5 +1,5 @@
 
-### interArt 2022
+## interArt 2022
 
 Muestra de trabajos del espacio digital interactivo 2021/22. Trabajos seleccionados
 
