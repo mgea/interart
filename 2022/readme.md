@@ -14,8 +14,18 @@ Muestra de trabajos del espacio digital interactivo 2021/22. Trabajos selecciona
    :octocat: https://carmenmarval.github.io  
 
 
+* **Dressin' Sasha** de Maria Teresa Lopez Rey :+1:   https://github.com/teerlor/teerlor.github.io
 
-.
+   :octocat:  https://teerlor.github.io/
+
+
+* **What was that?** de María del Carmen Jurado Cuevas :+1:  https://github.com/meryjurado/meryjurado.github.io
+
+   :octocat: http://meryjurado.github.io/
+
+
+
+
 
 .
 
