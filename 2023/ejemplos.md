@@ -1,28 +1,17 @@
 
-Selección de proyectos interactivos
+# muestra de proyectos interactivos (edición 2023)
 
 
 
-Digital Art Museum
+* [Digital Art Museum](http://www.dam.org)
+* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/)
+    * [Entrevista](http://www.youtube.com/watch?v=IBL6imnolEk)
+* Santiago Ortiz. [Rayuela Interactiva](http://moebio.com/research/rayuela/) 
+* Premios AWWARDS a HTML5 Interactivo [YouTube Rewind](https://www.awwwards.com/sites/youtube-rewind-2017) 
+* The Interactive Documentary explores the Auckland LGBTQ+ vogue ball scene [FAFSWAGVOGUE.COM](http://FAFSWAGVOGUE.COM)
+* i-doc interactivo: [Last Hijack](http://lasthijack.com)
+* Bob Dylan, [Like a Rolling Stone](http://video.bobdylan.com)
+* Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/)
+* Where on Google Earth is Carmen Sandiego? g.co/carmensandiego
 
-
-Rafael Lozano-Hemmer
-
-Entrevista
-Peugeot Graphic Novel Scrolling
-
-Santiago Ortiz. Rayuela Interactiva
-
-Ivan Kuckir. Ejemplos interactivos de HTML5
-
-Premios AWWARDS a HTML5 Interactivo YouTube Rewind
-
-The Interactive Documentary explores the Auckland LGBTQ+ vogue ball scene FAFSWAGVOGUE.COM
-
-i-doc interactivo: Last Hijack
-
-Bob Dylan, Like a Rolling Stone
-
-Portfolio Leonardi Web page
-
-Paseo Virtual por Granada, 2020 (Proyecto de Innovación docente) https://www.tourismlab.net/cultural
+Update, feb 2023
