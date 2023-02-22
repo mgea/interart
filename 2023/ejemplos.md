@@ -14,4 +14,9 @@
 * Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/)
 * Where on Google Earth is Carmen Sandiego? g.co/carmensandiego
 
+Revista tendencias 
+
+* [Submarine Channel](https://submarinechannel.com/)
+
+
 Update, feb 2023
