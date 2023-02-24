@@ -32,3 +32,10 @@ Stable diffusion web seite (beta) https://beta.dreamstudio.ai
 
 
 
+## Wombo App 
+
+Imágenes a partir de texto con variaciones de estilo (también hay una App para móvil) 
+
+![wombo]8https://github.com/mgea/interart/blob/master/experiment_IA/wombo.png)
+
+
