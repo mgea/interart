@@ -32,11 +32,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## Experimenta nuevas formas de creatividad
 
-- Usando IA para crear imágenes: [Stable difusion](https://stability.ai/) -> Beta version  https://beta.dreamstudio.ai/
-- Usando IA MidJourney 
-
-
-  https://dream.ai/create
+- [Usando IAs para crear imágenes](https://github.com/mgea/interart/blob/master/experiment_IA/readme.md) La aparición de Stable Difusion, ChatGTP, Midjourney ha supuesto una revolución en la generación automática de imágenes a partir de texto.  
 
 ## Acerca de este proyecto:
 
