@@ -14,4 +14,9 @@ Canal Midjourney Discord: https://discord.gg/midjourney
 
 
 
+/imagine blue cats running wit cars 
+
+
+
+
 
