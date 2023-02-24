@@ -4,9 +4,11 @@
 
 
 * [Digital Art Museum](http://www.dam.org)
-* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/)
-    * [Entrevista](http://www.youtube.com/watch?v=IBL6imnolEk)
-* Santiago Ortiz. [Rayuela Interactiva](http://moebio.com/research/rayuela/) 
+* Artistas 
+     * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/)
+           * [Entrevista](http://www.youtube.com/watch?v=IBL6imnolEk)
+     * [Vuk Ćosić](http://www.ljudmila.org/~vuk/) y el net.art 
+     * Santiago Ortiz. [Rayuela Interactiva](http://moebio.com/research/rayuela/) 
 * The Interactive Documentary explores the Auckland LGBTQ+ vogue ball scene [FAFSWAGVOGUE.COM](http://FAFSWAGVOGUE.COM)
 * i-doc interactivo: [Last Hijack](http://lasthijack.com)
 * Bob Dylan, [Like a Rolling Stone](http://video.bobdylan.com)
