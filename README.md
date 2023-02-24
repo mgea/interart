@@ -29,6 +29,15 @@ Facultad de Bellas Artes, Universidad de Granada
 
 - (la clase, 2020) https://utopolis.ugr.es/media/cmi/secuencias/clase
 
+
+## Experimenta nuevas formas de creatividad
+
+- Usando IA para crear imágenes: [Stable difusion](https://stability.ai/) -> Beta version  https://beta.dreamstudio.ai/
+- Usando IA MidJourney 
+
+
+  https://dream.ai/create
+
 ## Acerca de este proyecto:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
