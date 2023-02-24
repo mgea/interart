@@ -11,7 +11,7 @@
 * i-doc interactivo: [Last Hijack](http://lasthijack.com)
 * Bob Dylan, [Like a Rolling Stone](http://video.bobdylan.com)
 * Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/)
-* Where on Google Earth is Carmen Sandiego? g.co/carmensandiego
+* Where on Google Earth is Carmen Sandiego? https://g.co/carmensandiego
 
 Revista tendencias 
 
