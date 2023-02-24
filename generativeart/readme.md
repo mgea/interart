@@ -23,4 +23,14 @@ El arte generativo consiste en la creación mediante programación:
 
 
 
+Herramientas para arte generativo: 
 
+- Processing: https://processing.org
+
+- Sintaxis de processing: https://processing.org/reference/
+
+- Sanbox interactivo de processing: http://sketchpad.cc 
+
+- Arte generativo para artistas: https://generativeartistry.com 
+
+- Ejemplos arte generativo: https://codepen.io/tag/generative-art
