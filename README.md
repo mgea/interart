@@ -34,6 +34,11 @@ Facultad de Bellas Artes, Universidad de Granada
 
 - [Usando IAs para crear imágenes](https://github.com/mgea/interart/blob/master/experiment_IA/readme.md) La aparición de Stable Difusion, ChatGTP, Midjourney ha supuesto una revolución en la generación automática de imágenes a partir de texto.  
 
+- [Usando arte generativo](https://github.com/mgea/interart/tree/master/generativeart/readme.md) para crear el diseño, partiendo de formas matemáticas
+
+- [Mediante programación](https://github.com/mgea/interart/tree/master/programming/readme.md) usando diferentes lenguajes
+
+
 ## Acerca de este proyecto:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
