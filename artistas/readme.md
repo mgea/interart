@@ -65,3 +65,19 @@ Link video en vivo de obra Wooden Mirrow:  http://www.smoothware.com/danny/
 
 
 
+## Selección 2022/23
+
+
+### Nam June Paik
+
+Es uno de los pioneros del arte interactivo con robots y vídeos. Trabaja mucho con el DVD, los cables y las luces de neón. De todas sus obras la que más me fascina es Megatron/Matrix (ESCARCENA MORILLO, ALBA)
+
+Enlace a la página web oficial del artista: https://www.paikstudios.com
+
+![Megatron/Matrix](https://cdn.saam.media/HoHxvid0H351BvFLna0QG_nhrK4/2600/0/center/cover/webp/https%3A%2F%2Fd3ec1vt3scx7rr.cloudfront.net%2Ffiles%2Ffiles%2Fimages%2F1998%2FSAAM-1998.86_1.jpg) 
+
+https://americanart.si.edu/artwork/megatronmatrix-36486
+
+
+
+
