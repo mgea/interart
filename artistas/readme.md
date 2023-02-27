@@ -52,3 +52,16 @@ Jen Lewin es una artista e ingeniera interactiva con un estudio con sede en la c
 La obra que más me ha gustado es la que se titula Cosmos. Es una instalación interactiva hecha con luces led en el suelo sobre las que se puede andar.
 
 ![the last ocean](https://res.cloudinary.com/jen-lewin-studio/image/upload/f_auto,q_auto/w_650,h_464,c_fill,g_auto/$wpsize_!2col-portfolio!,w_1000,h_714,c_fill,g_auto/v1663116721/WordPress_ImageUploads/Screen-Shot-2022-09-13-at-8.51.20-PM.png))
+
+
+
+### Rozin 
+
+Rozin es un artista cinético y profesor, crea obras dentro del ámbito digital interactivo. Crea instalaciones y esculturas que cambian por la presencia de la vista del espectador. En varias de sus obras el espectador se convierte en el propio contenido de la obra, mientras que en otros casos toma un papel activo en la obra. Como es el caso de Wooden Mirrow (1999), se crea el rostro del espectador similar al reflejo de un espejo. Esta formada por 830 piezas de madera que están a su vez controlados por servo motores, que ayuda a representar la imagen en la superficie. Al igual, en su obra PomPom Mirror (2015), se presenta la silueta del espectador, pero mediante pompones. Por lo que sus piezas están formadas a su vez por los espectadores como he mencionado antes, puesto que si nadie visualiza la obra se convertiría en efímera. (REYES BRAVO, MARIA JOSE)
+
+Link video en vivo de obra Wooden Mirrow:  http://www.smoothware.com/danny/
+![mirror](https://www.smoothware.com/danny/woodenmirrormuseum.jpg)
+
+
+
+
