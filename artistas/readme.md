@@ -74,7 +74,7 @@ Es uno de los pioneros del arte interactivo con robots y vídeos. Trabaja mucho 
 
 Enlace a la página web oficial del artista: https://www.paikstudios.com
 
-![Megatron/Matrix](https://cdn.saam.media/aULN5FPUKR3ts8p9FOK4Qd2iD7k/640/0/center/cover/jpg/https%3A%2F%2Fd3ec1vt3scx7rr.cloudfront.net%2Ffiles%2Ffiles%2Fimages%2F1998%2FSAAM-1998.86_1.jpg) 
+![Megatron/Matrix](https://www.si.edu/tbma/sites/default/files/styles/slide_desk/public/slideshow/paragraphs/tbma-work-saam-megatronmatrix_img_01.jpg) 
 
 https://americanart.si.edu/artwork/megatronmatrix-36486
 
