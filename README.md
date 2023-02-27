@@ -14,6 +14,7 @@ Facultad de Bellas Artes, Universidad de Granada
 - [Obras seleccionadas de alumnos de Bellas Artes de 2020](./2020/readme.md)
 - [Obras seleccionadas de alumnos de Bellas Artes de 2019](./2019/readme.md)
 - [Obras seleccionadas de alumnos de Bellas Artes de 2018](./2018/readme.md)
+- [Artistas digitales seleccionados por los alumnos de clase](./artistas/readme.md)
 - [Ejemplo de proyecto en github.io](http://mgea.github.io/cmi) clonando este repositorio (http://github.com/mgea/cmi) 
 - [Ficha plantilla de proyecto](./Plantilla_proyecto.md)
 
