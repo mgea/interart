@@ -24,7 +24,16 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
       
        Destacable: Diseño escenarios y organizacion de la historia 
    
- 
+
+
+* **¿Qué hay en la caja?** de Auba Far Palmer :+1: :+1: https://github.com/afarp/afarp.github.io
+
+   :octocat: https://afarp.github.io/
+
+      
+       Destacable: Historia, personajes y juego  
+   
+
 *  **Las Increíbles Aventuras De Jusus** de Jesús García Rodríguez  :+1: :+1:  https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io
  
       :octocat:   https://jususgaroz.github.io/
