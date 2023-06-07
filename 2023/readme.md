@@ -42,8 +42,11 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 * **Uncovering** de  Isabel Magán :+1:  https://github.com/Isabelmagan/Uncovering
 
    :octocat: https://isabelmagan.github.io/
+
+     
+       Destacable: Diseño de escenarios y buscar pistas
    
-   Destacable: Diseño de escenarios y buscar pistas
+   
    
 
 
