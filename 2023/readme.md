@@ -8,6 +8,10 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 
 ### Novelas & Storytelling
 
+* **DinoInvestigación** de Pedro Juan Flores Morales :+1: :+1: https://github.com/Pedrojurassic/Pedrojurassic.github.io
+
+   :octocat: https://pedrojurassic.github.io/
+
 * **CAPYBARA SUPREMACY** de Tomás Fernández López :+1:  https://github.com/toferlop/toferlop.github.io/
 
 
