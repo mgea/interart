@@ -13,6 +13,9 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 
    :octocat: https://gatocatsper.github.io/
 
+      
+       Destacable: Diseño de personajes y movimiento personaje (player)
+   
 
 * **DinoInvestigación** de Pedro Juan Flores Morales :+1: :+1: https://github.com/Pedrojurassic/Pedrojurassic.github.io
 
