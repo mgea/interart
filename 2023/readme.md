@@ -8,7 +8,7 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 
 ### Novelas & Storytelling
 
-* **CAPYBARA SUPREMACY** de Tomás Fernández López :+1: :+1:  https://github.com/toferlop/toferlop.github.io/
+* **CAPYBARA SUPREMACY** de Tomás Fernández López :+1:  https://github.com/toferlop/toferlop.github.io/
 
 
    :octocat: https://toferlop.github.io/
