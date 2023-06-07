@@ -21,6 +21,9 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 
    :octocat: https://pedrojurassic.github.io/
 
+      
+       Destacable: Diseño escenarios y organizacion de la historia 
+   
  
 *  **Las Increíbles Aventuras De Jusus** de Jesús García Rodríguez  :+1: :+1:  https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io
  
