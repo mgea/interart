@@ -22,6 +22,9 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 *  **Las Increíbles Aventuras De Jusus** de Jesús García Rodríguez  :+1: :+1:  https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io
  
       :octocat:   https://jususgaroz.github.io/
+      
+       Destacable: Diseño de personajes y animación
+   
    
    
 * **CAPYBARA SUPREMACY** de Tomás Fernández López :+1:  https://github.com/toferlop/toferlop.github.io/
@@ -40,7 +43,7 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 
    :octocat: https://isabelmagan.github.io/
    
-   Muy bien diseño de escenarios y buscar pistas
+   Destacable: Diseño de escenarios y buscar pistas
    
 
 
