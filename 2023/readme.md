@@ -35,6 +35,13 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
    :octocat: https://galamf.github.io/
    
    
+   
+* **Uncovering** de  Isabel Magán :+1:  https://github.com/Isabelmagan/Uncovering
+
+   :octocat: https://isabelmagan.github.io/
+   
+   Muy bien diseño de escenarios y buscar pistas
+   
 
 
 ### Espacios interactivos 
