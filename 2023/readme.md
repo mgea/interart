@@ -1,6 +1,6 @@
 ## interArt 2023
 
-Muestra de trabajos del espacio digital interactivo 2021/22. Trabajos seleccionados
+Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos seleccionados
 
 
 
@@ -37,17 +37,12 @@ Muestra de trabajos del espacio digital interactivo 2021/22. Trabajos selecciona
 
 
 
-### Portafolios
+### Portfolios
 
-* Cecilia Casas Gómez  :+1: :+1: https://github.com/ceciliapetricor/ceciliapetricor.github.io
+* MONS de Olha Prokopyk:   :+1: https://github.com/Onyriax/Onyriax.github.io 
 
-  :octocat: https://ceciliapetricor.github.io/
-
-
-* Andrea Bustos Aguilar  https://github.com/andrebaaa/andrebaaa.github.io
-
-  :octocat:  https://andrebaaa.github.io/
-  
+  :octocat: https://onyriax.github.io/
+ 
   
   
   
