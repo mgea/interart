@@ -6,7 +6,39 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 
 
 
+
+
+### Cuentos infantiles
+
+
+   
+* **Mi coneji-aventura** de Gala Moscoso  :+1: :+1: :+1:   https://github.com/Galamf/Galamf.github.io
+
+   :octocat: https://galamf.github.io/
+   
+      
+       Destacable: Diseño visual muy cuidado, narrativa entre juegos y continuidad de la historia 
+ 
+
+* **¿Qué hay en la caja?** de Auba Far Palmer :+1: :+1: :+1:  https://github.com/afarp/afarp.github.io
+
+   :octocat: https://afarp.github.io/
+
+      
+       Destacable: Historia, diseño de personajes y continuidad de la historia (con desenlace)  
+   
+ 
+* **Los cuentos de Rubén** de Mark Molero :+1: :+1: :+1:   https://github.com/MarkMF2003/MarkMF2003.github.io
+
+   :octocat: https://markmf2003.github.io/
+
+     
+       Destacable: Diseño visual, sincronizacion audio, estilo de navegación y estructura de los cuentos 
+      
+
+
 ### Novelas & Storytelling
+
 
 
 * **FIND CATSPER** de Carlos García-Filoso González  :+1: :+1: https://github.com/gatocatsper/gatocatsper.github.io
@@ -26,13 +58,6 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
    
 
 
-* **¿Qué hay en la caja?** de Auba Far Palmer :+1: :+1: https://github.com/afarp/afarp.github.io
-
-   :octocat: https://afarp.github.io/
-
-      
-       Destacable: Historia, personajes y juego pareja de cartas  
-   
 
 *  **Las Increíbles Aventuras De Jusus** de Jesús García Rodríguez  :+1: :+1:  https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io
  
@@ -47,13 +72,6 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 
    :octocat: https://toferlop.github.io/
    
-    
-* **Mi coneji-aventura** de Gala Moscoso  :+1:  https://github.com/Galamf/Galamf.github.io
-
-   :octocat: https://galamf.github.io/
-   
-      
-       Destacable: Diseño visual muy bien cuidado 
  
  
 * **Melodrama** de Lucía Martinez  :+1:  https://github.com/lumr28/lumr28.github.io
@@ -75,14 +93,6 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
        Destacable: Diseño de escenarios y buscar pistas
    
    
- 
-* **Los cuentos de Rubén** de Mark Molero :+1:  https://github.com/MarkMF2003/MarkMF2003.github.io
-
-   :octocat: https://markmf2003.github.io/
-
-     
-       Destacable: Mover cohete y evitar colisiones
-      
 
 
 ### Espacios interactivos 
