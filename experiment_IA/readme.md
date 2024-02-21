@@ -2,6 +2,18 @@
 
 # Herramientas de generación de imágenes a partir de texto
 
+## Adobe firefly 
+
+https://firefly.adobe.com/
+
+
+## Free AI Generator 
+
+https://www.craiyon.com/
+
+DeepAI 
+https://deepai.org/machine-learning-model/text2img
+
 
 ## Mid journey IA 
 
