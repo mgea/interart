@@ -79,5 +79,21 @@ Enlace a la página web oficial del artista: https://www.paikstudios.com
 https://americanart.si.edu/artwork/megatronmatrix-36486
 
 
+### Liu Dao
+
+Soy Maria Teresa Fernandez y he elejido al colectivo Liu Dao como artista digital interactivo.
+
+Liu Dao ( colectivo  de artistas) fue fundada en 2006 por island6 Arts Center bajo la dirección del curador francés Thomas Charvériat . Liu Dao es un grupo de arte electrónico compuesto por artistas multimedia , ingenieros, pintores, artistas de performance, fotógrafos , curadores y escritores. Su trabajo se centra en instalaciones artísticas interactivas que exploran los efectos que "las tecnologías tienen en nuestra percepción y modos de comunicación"  pero también en el arte LED , la fotografía, la escultura moderna y la pintura .
+
+La obra interactiva que mas me ha gustado es  "Hippocampus Sabotage" (海马捣毁)
+
+Habla de los sueños y los recuerdos , ambos se almacean en el mismo lugar del cerebro, el Hipocampo. Construimos nuestra realidad en base a nuestros recuerdos y nuestros sueños tambien. Esta obra introduce la posibilidad de la ficcion de nuestra propia vida y de nuestra propia identidad , la cual se forma en base a recuerdos que a veces no podemos distinguir de los sueños.  El artista intenta recordar la playa en un dia lluvioso, pero derrepente no sabe si lo que recuerda es real o es una construccion mental posiblemente ficticia de lo que vivio en un momento. 
+
+Se trata de un cuadro interactivo que cuando te acercas recrea la escena de lluvia y relampagos. Me gusta porque  el hecho  de que al acercarse se produzca la tormenta , te hace como espectador quedar automaticamete inmerso en el escenario que se propone. 
+
+Pagina web de Liu Dao : https://island6.org/hippocampussabotage
+
+
+
 
 
