@@ -20,6 +20,13 @@ Facultad de Bellas Artes, Universidad de Granada
 - [Ficha plantilla de proyecto](./Plantilla_proyecto.md)
 
 
+
+## Ejercicios clase
+
+ https://mgea.github.io/cmi24/ 
+
+
+
 ## Teasers Bansky
 
 - https://utopolis.ugr.es/media/cmi/secuencias/bansky1
