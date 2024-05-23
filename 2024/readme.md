@@ -5,7 +5,7 @@ Muestra de trabajos del espacio digital interactivo 2023/24 Trabajos seleccionad
 
 
 ### Cuentos y estilo infantil
-* **Yaya Cooking** de Alicia Ruiz :+1: :+1: :+1: https://aliciaruizz.github.io/
+* **Yaya Cooking** de Alicia Ruiz :star: :star:  https://aliciaruizz.github.io/
 
   :octocat:  https://github.com/aliciaruizz/aliciaruizz.github.io
 
