@@ -15,8 +15,10 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 * **Mi coneji-aventura** de Gala Moscoso  :+1: :+1: :+1:   https://github.com/Galamf/Galamf.github.io
 
    :octocat: https://galamf.github.io/
-   
-      
+        
+    <img src="https://github.com/Galamf/Galamf.github.io/assets/134587946/14762507-7672-45a3-8f80-32032487600b" width="250" >
+
+
        Destacable: Diseño visual muy cuidado, narrativa entre juegos y continuidad de la historia 
  
 
@@ -24,7 +26,8 @@ Muestra de trabajos del espacio digital interactivo 2022/23. Trabajos selecciona
 
    :octocat: https://afarp.github.io/
 
-      
+     <img src="https://github.com/afarp/afarp.github.io/assets/134588146/86df0cc3-8849-4ce4-8312-63811e8741ca" width="250" >
+ 
        Destacable: Historia, diseño de personajes y continuidad de la historia (con desenlace)  
    
  
