@@ -11,7 +11,8 @@ Facultad de Bellas Artes, Universidad de Granada
 - [Ejemplo de proyectos interactivos seleccionados](./2023/ejemplos.md) (internacionales)
 - [Obras seleccionadas de alumnos de Bellas Artes](portfolio-cmi/README.md) 
 - [Artistas digitales seleccionados por los alumnos de clase](./artistas/readme.md)
-- [Ejemplo de proyecto en github.io](http://mgea.github.io/cmi) clonando este repositorio (https://github.com/mgea/cmi) 
+
+
 - 
 
 
@@ -26,7 +27,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## Publicación proyectos
 
-* Plantilla de publicación en Github - https://github.com/mgea/cmi
+* Plantilla de documentación del proyecto en Github [ejemplo](http://mgea.github.io/cmi) clonando este repositorio (https://github.com/mgea/cmi) 
 * Repositorio de publicación en itch.io - 
 
 
