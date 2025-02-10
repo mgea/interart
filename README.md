@@ -9,26 +9,25 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## La muestra
 - [Ejemplo de proyectos interactivos seleccionados](./2023/ejemplos.md) (internacionales)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2024](./2024/readme.md) 
-- [Obras seleccionadas de alumnos de Bellas Artes de 2023](./2023/readme.md) 
-- [Obras seleccionadas de alumnos de Bellas Artes de 2022](./2022/readme.md)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2021](./2021/readme.md)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2020](./2020/readme.md)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2019](./2019/readme.md)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2018](./2018/readme.md)
+- [Obras seleccionadas de alumnos de Bellas Artes](portfolio-cmi/README.md) 
 - [Artistas digitales seleccionados por los alumnos de clase](./artistas/readme.md)
-- [Ejemplo de proyecto en github.io](http://mgea.github.io/cmi) clonando este repositorio (http://github.com/mgea/cmi) 
-- [Ficha plantilla de proyecto](./Plantilla_proyecto.md)
+- [Ejemplo de proyecto en github.io](http://mgea.github.io/cmi) clonando este repositorio (https://github.com/mgea/cmi) 
+- 
 
 
 
-## Ejercicios clase
+## Ejercicios de clase 
 
- https://mgea.github.io/cmi24/ 
+*  https://mgea.github.io/cmi24/  (usando Hippani)
 
-## Plantill 
+* Repositorio en Itch.io https://cmiugr.itch.io/
 
- https://github.com/mgea/cmi
+
+
+## Publicación proyectos
+
+* Plantilla de publicación en Github - https://github.com/mgea/cmi
+* Repositorio de publicación en itch.io - 
 
 
 
@@ -55,7 +54,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## Acerca de este proyecto:
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > 
 
 Febrero 2021 
 
@@ -64,5 +63,4 @@ Febrero 2021
 [Facultad de Bellas Artes](http://bellasartes.ugr.es)
 
 Universidad de Granada
-
 
