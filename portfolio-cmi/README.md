@@ -1,6 +1,8 @@
 # interArt
 
-![](./../banner_cmi2.png)
+![](https://github.com/aliciaruizz/aliciaruizz.github.io/raw/main/menu.png) 
+(cooking yaya, aliciaruiz 2024) 
+
 Digital Interactive art / Muestra colectiva de arte interactivo 
 
 
