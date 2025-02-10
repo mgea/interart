@@ -1,4 +1,4 @@
-# interArt
+# Portfolio de interArt
 
 ![](https://github.com/aliciaruizz/aliciaruizz.github.io/raw/main/menu.png) 
 (cooking yaya, aliciaruiz 2024) 
