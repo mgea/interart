@@ -22,10 +22,9 @@ Creación Multimedia Interactiva. Facultad de Bellas Artes, Universidad de Grana
 
 
 
-## Acerca de este proyecto:
+### Acerca de este proyecto:
 
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
-
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="125" > 
 
 
 Febrero 2025 
