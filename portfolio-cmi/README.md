@@ -9,13 +9,13 @@ Digital Interactive art / Muestra colectiva de arte interactivo
 
 Creación Multimedia Interactiva. Facultad de Bellas Artes, Universidad de Granada
 
-- [Obras seleccionadas de alumnos de Bellas Artes de 2024](./portfolio-cmi/2024/readme.md) 
-- [Obras seleccionadas de alumnos de Bellas Artes de 2023](./portfolio-cmi/2023/readme.md) 
-- [Obras seleccionadas de alumnos de Bellas Artes de 2022](./portfolio-cmi/2022/readme.md)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2021](./portfolio-cmi/2021/readme.md)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2020](./portfolio-cmi/2020/readme.md)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2019](./portfolio-cmi/2019/readme.md)
-- [Obras seleccionadas de alumnos de Bellas Artes de 2018](./portfolio-cmi/2018/readme.md)
+- [Obras seleccionadas de alumnos de Bellas Artes de 2024](./2024/readme.md) 
+- [Obras seleccionadas de alumnos de Bellas Artes de 2023](./2023/readme.md) 
+- [Obras seleccionadas de alumnos de Bellas Artes de 2022](./2022/readme.md)
+- [Obras seleccionadas de alumnos de Bellas Artes de 2021](./2021/readme.md)
+- [Obras seleccionadas de alumnos de Bellas Artes de 2020](./2020/readme.md)
+- [Obras seleccionadas de alumnos de Bellas Artes de 2019](./2019/readme.md)
+- [Obras seleccionadas de alumnos de Bellas Artes de 2018](./2018/readme.md)
 
 
 
