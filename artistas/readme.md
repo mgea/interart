@@ -1,7 +1,7 @@
 
 # Artistas digitales: La selección de los estudiantes de CMI 
 
-## Selección 2021/22 
+
 
 ### **Toshio Iwai**  
 Toshio Iwai es un diseñador y artista informático japonés. Ha trabajado para empresas como Nintendo y Sony Computer Entertainment, 
