@@ -57,9 +57,9 @@ Facultad de Bellas Artes, Universidad de Granada
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > 
 
-Febrero 2021 
+Febrero 2025 
 
-[Creacion Multimedia Interactiva](http://utopolis.ugr.es/cmi)
+[Creacion Multimedia Interactiva](https://github.com/mgea/interart)
 
 [Facultad de Bellas Artes](http://bellasartes.ugr.es)
 
