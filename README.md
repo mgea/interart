@@ -8,7 +8,7 @@ Muestra de trabajos de Creación Multimedia Interactiva
 Facultad de Bellas Artes, Universidad de Granada
 
 ## La muestra
-- [Ejemplo de proyectos interactivos seleccionados](./2023/ejemplos.md) (internacionales)
+- [Ejemplo de proyectos interactivos seleccionados](./artistas/ejemplos.md)
 - [Obras seleccionadas de alumnos de Bellas Artes](portfolio-cmi/README.md) 
 - [Artistas digitales seleccionados por los alumnos de clase](./artistas/readme.md)
 
