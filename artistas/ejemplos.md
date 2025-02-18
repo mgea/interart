@@ -7,8 +7,7 @@
 * [Digital Art Museum](http://www.dam.org)
 
 ### Artistas 
-* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/)
-> [Entrevista](http://www.youtube.com/watch?v=IBL6imnolEk)
+* [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/) / > [Entrevista](http://www.youtube.com/watch?v=IBL6imnolEk)
 * [Vuk Ćosić](http://www.ljudmila.org/~vuk/) y el net.art 
 * Santiago Ortiz. [Rayuela Interactiva](http://moebio.com/research/rayuela/)
 
@@ -29,7 +28,7 @@
 
 * The Interactive Documentary explores the Auckland LGBTQ+ vogue ball scene [FAFSWAGVOGUE.COM](http://FAFSWAGVOGUE.COM)
 * i-doc interactivo: [Last Hijack](http://lasthijack.com)
-* James Bond 007 Cars Evolution, 2012** http://www.evanshalshaw.com/more/bondcars/
+* James Bond 007 Cars Evolution (2012) http://www.evanshalshaw.com/more/bondcars/
  Awwwards: 7/11/2021 https://www.awwwards.com/sites/bond-007-cars-evolution
  Cars Review: https://www.evanshalshaw.com/more/bondcars/
 * **Ninnette** (2016) https://ninette.berlin/ "Thin is never enough" is a interactive comic tellings the moving story of 14-year-old Janette
