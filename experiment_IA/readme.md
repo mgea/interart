@@ -44,7 +44,16 @@ Stable diffusion web seite (beta) https://beta.dreamstudio.ai
 
 
 
-## Wombo App 
+## Heygen
+
+Creación de un Avatar en multiples idiomas
+https://www.heygen.com/
+
+
+https://app.heygen.com/embeds/eba8ef771c0348dc8527db43595a54b5
+
+https://app.heygen.com/embeds/b905785c8eaa45bab93caf0b7badc38c
+## Wombo App 
 
 Imágenes a partir de texto con variaciones de estilo (también hay una App para móvil) 
 
