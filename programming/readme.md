@@ -15,8 +15,10 @@
   
   - Sandbox escribir HTML: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic
 
-   - aprenender y tutoriales html: https://www.w3schools.com/ 
+   - aprender y tutoriales html: https://www.w3schools.com/ 
    
    - Guia referencia HTML5:https://dev.w3.org/html5/html-author/
 
    - Animation CSS: Create basic or complex CSS @keyframe animations with a visual timeline editor similar to video-editing software: https://keyframes.app/ 
+
+  - Codepen (editando código open source) 3-2 responive grid of hexagons de CodePen, autor [web-tiki](https://codepen.io/web-tiki) https://codepen.io/web-tiki/pen/wWGeEM 
