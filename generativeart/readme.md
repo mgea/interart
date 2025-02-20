@@ -33,6 +33,12 @@ Herramientas para arte generativo:
 
 - P5.js https://editor.p5js.org/
 
+![Ejemplo interactivo](Captura_p5js.PNG)
+https://editor.p5js.org/usalab/sketches/jM_uPPPVe
+
+
+
+
 - Arte generativo para artistas: https://generativeartistry.com 
 
 - Ejemplos arte generativo: https://codepen.io/tag/generative-art
