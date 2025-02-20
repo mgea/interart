@@ -32,17 +32,6 @@ Facultad de Bellas Artes, Universidad de Granada
 
 
 
-## Teasers Bansky
-
-- https://utopolis.ugr.es/media/cmi/secuencias/bansky1
-- https://utopolis.ugr.es/media/cmi/secuencias/bansky2
-- https://utopolis.ugr.es/media/cmi/secuencias/bansky3
-
-
-## Teasers Bellas artes: territorio creativo 
-
-- (la clase, 2020) https://utopolis.ugr.es/media/cmi/secuencias/clase
-
 
 ## Experimenta nuevas formas de creatividad
 
