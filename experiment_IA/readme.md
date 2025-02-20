@@ -53,6 +53,12 @@ Stable diffusion web seite (beta) https://beta.dreamstudio.ai
 
 
 
+## Leonardo.AI 
+
+https://leonardo.ai/
+
+
+
 ## Heygen
 
 Creación de un Avatar en multiples idiomas
