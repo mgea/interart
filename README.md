@@ -21,10 +21,12 @@ Facultad de Bellas Artes, Universidad de Granada
 
 *  https://mgea.github.io/cmi24/  (usando Hippani)
 
-* Repositorio en Itch.io https://cmiugr.itch.io/
+* Repositorio en Itch.io (desde 2025 con Godot) https://cmiugr.itch.io/
 
 
 ## Multimedia interactiva con GODOT
+
+Tutoriales y ayudas: 
 
 * https://github.com/mgea/godot
 * 
