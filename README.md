@@ -26,7 +26,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## Multimedia interactiva con GODOT
 
-Tutoriales y ayudas: 
+Tutoriales, ejercicios y ayuda de Godot 4.4: 
 
 * https://github.com/mgea/godot
 * 
