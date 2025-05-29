@@ -2,10 +2,13 @@
 
 Muestra de trabajos del espacio digital interactivo 2024/25 Trabajos seleccionados
 
+<br>
+
+
 Enlace a folio de evaluacion: https://forms.gle/G1dn4rjvGFga3ZhP6
 
-Enlace a hoja de encuesta de trabajos: https://forms.gle/EPu7vri2C9SLnjCv5
 
+<br>
 
 Listado de proyectos 
 
