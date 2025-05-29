@@ -27,7 +27,7 @@ Listado de proyectos
 | GOMEZ MARTINEZ, MACARENA         | COFFEE & DREAMS                 | https://github.com/macarenagm05/cmi            | https://macarenagm05.itch.io/coffee-dreams                |
 | GOMEZ MUÑOZ, ANGELA              | ANIMALITOS                      | https://github.com/angelagomuz/cmi             |                                                           |
 | GONZALEZ RUIZ, ISABEL            | Cocina51                        | https://github.com/8darov/Martes               |                                                           |
-| GONZALEZ TORRES, ALBA            | MARTES DE GUERRA                | https://github.com/8darov/cmi                  |                                                           |
+| GONZALEZ TORRES, ALBA            | MARTES DE GUERRA                | https://github.com/8darov/cmi                  | https://8darov.itch.io/martes                                               |
 | HERNANDEZ GARCIA, LUCIA          | GULP                            |                                                |                                                           |
 | JIMENEZ MARTIN, FRANCISCO ERIK   | Plants                          | https://github.com/Elgordolo/plant-s           | https://elgorlodo.itch.io/plants                          |
 | JIMENEZ ROJAS, IGNACIO           | Portfolio                       |                                                |                                                           |
