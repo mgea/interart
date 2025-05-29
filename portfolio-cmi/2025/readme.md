@@ -38,7 +38,7 @@ Listado de proyectos
 | MARTIN SANCHEZ, ALBA             | TWIN REVENGE                    |                                                |                                                           |
 | MARTINEZ RODRIGUEZ, MARIA        | Entre Raices  (BOSQUE NOVO)     |                                                |                                                           |
 | MILLAN CRUZ, GEMMA               | DESTELLOS ACERO                 |                                                | https://itch.io/profile/gemmitta                          |
-| MORA GARCIA, CLAUDIA             | MEMORY CROMÁTICO                |                                                |                                                           |
+| MORA GARCIA, CLAUDIA             | MEMORY CROMÁTICO                |    https://github.com/clau8-mora/cmi     | https://clau8-mora.itch.io/memory-cromtico-invertido                                               |
 | MORELLO , LUNA                   | Portfolio-Respira               | https://github.com/lunamorello/cmi             |                                                           |
 | ORTIZ SALINAS, ANGEL LUIS        | SIR MARCUS                      | https://github.com/newmesis/Sir-Marcus         | https://gameofnewmesis.itch.io/sirmarcus                  |
 | PEREZ JIMENEZ, CARMEN            | MILKY WAY                       | https://github.com/CarmenPJ185/cmi/            | https://possummind.itch.io/milky-way                      |
