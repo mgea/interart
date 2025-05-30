@@ -49,4 +49,7 @@ Listado de proyectos
 | TORO COSTALES, DANIEL            | MASCARAS KIDS                   | https://github.com/DanielToro90/Mascaras-kidzs |                                                           |
 
 
+Resultados Test del 29 / 5 / 2025
+
+![Resultados](Resultados_Test.png)
 
