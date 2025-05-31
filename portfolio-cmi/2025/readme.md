@@ -10,7 +10,14 @@ Enlace a folio de evaluacion: https://forms.gle/G1dn4rjvGFga3ZhP6
 
 <br>
 
-Listado de proyectos 
+
+### DE PATA NEGRA  (Alba Callejón) ⭐ 
+  
+  https://alt-alba.itch.io/de-pata-negra
+  
+  :octocat: https://github.com/alt-alba/cmi
+
+
 
 
 
