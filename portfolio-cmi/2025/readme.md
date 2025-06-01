@@ -11,11 +11,13 @@ Enlace a folio de evaluacion: https://forms.gle/G1dn4rjvGFga3ZhP6
 <br>
 
 
-### DE PATA NEGRA  (Alba Callejón) ⭐ 
+* **LOVE IN THE SPOTLIGHT**  (Derin Fernandez Labader) ⭐⭐ 
+
+![](https://private-user-images.githubusercontent.com/212677545/448314565-bad520ec-1609-424b-8199-92fea3282a5b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg3NzQ1MzQsIm5iZiI6MTc0ODc3NDIzNCwicGF0aCI6Ii8yMTI2Nzc1NDUvNDQ4MzE0NTY1LWJhZDUyMGVjLTE2MDktNDI0Yi04MTk5LTkyZmVhMzI4MmE1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwMVQxMDM3MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MGE4MDU0NWUwZTc0OGU4MzFmZDczMDVkZWZkZWRlNjExMzBkZGUxOTE2YjdjNzU5MTczODVjNTcwNjE2ZTczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sREjiLofT38ms257m6O4HXxDmr9FFbsLrhvecF6NmPQ)
+
+  :octocat: https://github.com/yildizcreature/Love-in-the-Spotlight 
   
-  https://alt-alba.itch.io/de-pata-negra
-  
-  :octocat: https://github.com/alt-alba/cmi
+  :video_game: https://yildizcreature.itch.io/love-in-the-spotlight 
 
 
 
