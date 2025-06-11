@@ -53,8 +53,10 @@ Resultados Test del 29 / 5 / 2025
 
 ![Resultados](Resultados_Test.png)
 
-----
+-------------
 Creación Multimedia Interactiva, mayo 2025
 
+Facultad de Bellas Artes, Universidad de Granada
 
+CCBYNCSA M. Gea
 
