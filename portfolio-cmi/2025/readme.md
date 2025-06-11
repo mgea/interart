@@ -2,7 +2,7 @@
 
 Muestra de trabajos del espacio digital interactivo 2024/25 Trabajos seleccionados
 
-Este año **TODOS los proyectos han sido desarrollados con Godot Engine 4.4 **  https://godotengine.org/
+Este año **TODOS los proyectos han sido desarrollados con Godot Engine 4.4**  https://godotengine.org/
 
 La documentación y temporización se puede encontrar en https://github.com/mgea/godot
 
