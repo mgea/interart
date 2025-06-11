@@ -4,6 +4,8 @@ Muestra de trabajos del espacio digital interactivo 2024/25 Trabajos seleccionad
 
 Este año **TODOS los proyectos han sido desarrollados con Godot Engine 4.4**  https://godotengine.org/
 
+Se ha subido una versión jugable :video_game: online en HTML a [itch.io](https://itch.io/)
+
 La documentación y temporización se puede encontrar en https://github.com/mgea/godot
 
 <br>
@@ -14,7 +16,7 @@ La documentación y temporización se puede encontrar en https://github.com/mgea
 <br>
 
 
-| Autor                            | Título                    |  ⭐  | :octocat:   Github                                       | [ :video_game: ](http://itch.io/)                                |  Interactivo       |
+| Autor                            | Título                    |  ⭐  | :octocat:   Github                                       | [ :video_game: ](https://itch.io/)                                |  Interactivo       |
 | -------------------------------- | --------------------------| ---- | ---------------------------------------------- | --------------------------------------------------------- | ------  |
 | CALLEJON JAREÑO, ALBA            | DE PATA NEGRA             |      |                                                |                                                           | Dialogic|
 | CALVO MOLINA, ALBA MARIA         | The Hunt                  |      |                                                |                                                           | Dialogic |
