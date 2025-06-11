@@ -20,11 +20,11 @@ La documentación y temporización se puede encontrar en https://github.com/mgea
 | CALVO MOLINA, ALBA MARIA         | The Hunt                  |      |                                                |                                                           | Dialogic |
 | DIAZ GARCIA, PAOLA               | Band Dating Simulator     |      |                                                                             |                                                           | Dialogic|
 | FERNANDEZ LABANDER FIRAT, DERIN  | LOVE IN THE SPOTLIGHT     |⭐⭐  | [ :octocat: doc ](https://github.com/yildizcreature/Love-in-the-Spotlight)  | [link](https://yildizcreature.itch.io/love-in-the-spotlight)      | |
-| GARZON RUIZ, LEO                 | CUCHARACHA                |⭐⭐⭐| [ :octocat: doc ](https://github.com/LeoGarru)                              | [link](https://leogarru.itch.io/)                      | |
+| GARZON RUIZ, LEO                 | CUCHARACHA                |⭐⭐⭐| [ :octocat: doc ](https://github.com/LeoGarru)                              | [link](https://leogarru.itch.io/)                      |Dialogic, D&D |
 | GOMEZ MARTINEZ, MACARENA         | COFFEE & DREAMS           |      | [ :octocat: src ](https://github.com/macarenagm05/cmi)                      | [link](https://macarenagm05.itch.io/coffee-dreams)    | | 
-| GOMEZ MUÑOZ, ANGELA              | ANIMALITOS                |      | [ :octocat: src ](https://github.com/angelagomuz/cmi)             |                                                           | |
+| GOMEZ MUÑOZ, ANGELA              | ANIMALITOS                |      | [ :octocat: src ](https://github.com/angelagomuz/cmi)             |                                                           | Quizz|
 | GONZALEZ RUIZ, ISABEL            | Cocina51                  |      | [ :octocat: src ](https://github.com/8darov/Martes)               |                                                           | |
-| GONZALEZ TORRES, ALBA            | MARTES DE GUERRA          |⭐⭐⭐| [ :octocat: src ](https://github.com/8darov/cmi)                  | [link](https://8darov.itch.io/martes)               | |
+| GONZALEZ TORRES, ALBA            | MARTES DE GUERRA          |⭐⭐⭐| [ :octocat: src ](https://github.com/8darov/cmi)                  | [link](https://8darov.itch.io/martes)               | Dialogic, snake |
 | HERNANDEZ GARCIA, LUCIA          | GULP                      |      |                                                |                                                           ||
 | JIMENEZ MARTIN, FRANCISCO ERIK   | Plants                    |      | [ :octocat: src ](https://github.com/Elgordolo/plant-s)           | [link](https://elgorlodo.itch.io/plants)               | |
 | JIMENEZ ROJAS, IGNACIO           | Portfolio                 |      |                                                |                                                           ||
