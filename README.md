@@ -2,13 +2,17 @@
 
 ![](./banner_cmi2.png)
 
-[CMI guía docente y horatios](https://directorio.ugr.es/static/InformacionAcademica/*/showAsignaturaGrados/260/27/11)
-
 Digital Interactive art / Muestra colectiva de arte interactivo 
 
 Muestra de trabajos de Creación Multimedia Interactiva 
 
 Facultad de Bellas Artes, Universidad de Granada
+
+
+## La asignatura 
+
+- [CMI guía docente y horatios](https://directorio.ugr.es/static/InformacionAcademica/*/showAsignaturaGrados/260/27/11)
+
 
 ## La muestra
 - [Ejemplo de proyectos interactivos seleccionados](./artistas/ejemplos.md)
@@ -16,15 +20,11 @@ Facultad de Bellas Artes, Universidad de Granada
 - [Artistas digitales seleccionados por los alumnos de clase](./artistas/readme.md)
 
 
-- 
-
-
-
 ## Ejercicios de clase 
 
-*  https://mgea.github.io/cmi24/  (usando Hippani)
+* Ejercicios 2024 (usando Hippani) https://mgea.github.io/cmi24/  
 
-* Repositorio en Itch.io (desde 2025 con Godot) https://cmiugr.itch.io/
+* Ejercicios 2025+ (usando Godot) en Itch.io  https://cmiugr.itch.io/
 
 
 ## Multimedia interactiva con GODOT
