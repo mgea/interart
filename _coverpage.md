@@ -18,7 +18,7 @@ CCBYNCSA [Miguel Gea](https://mgea.github.io/about)
 
 
 
-[GitHub](https://github.com/interart)
+[GitHub](https://github.com/mgea/interart)
 [Comenzar](#interart)
 
 <!-- background color -->
