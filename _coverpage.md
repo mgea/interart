@@ -1,24 +1,24 @@
 <!-- _coverpage.md -->
 
 
-# Comercio Sostenible 2024/25
-## UX Case Study
+# I N T E R A R T 
+**CREACIÓN MULTIMEDIA INTERACTIVA**
 
 
 
-<img align="center" src="./img/logo_diu25_mini.png" width="600" height=auto alt="Logotipo"/>
+<img align="center" src="./banner_cmi2.png" width="600" height=auto alt="Logotipo"/>
 
 
 
 
 
-### Prácticas de la asignatura Diseño de interfaces de Usuario
+### Contenido de la asignatura: Creación Multimedia Interactiva 
+#### Facultad de BELLAS ARTES. Universidad de Granada,
+CCBYNCSA [Miguel Gea](https://mgea.github.io/about) 
 
-#### ETSI Informática y Telecomunicación. Universidad de Granada, 2025
 
 
-
-[GitHub](https://github.com/mgea/DIU)
-[Comenzar](#DIU)
+[GitHub](https://github.com/interart)
+[Comenzar](#interart)
 
 <!-- background color -->
