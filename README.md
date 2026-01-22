@@ -1,6 +1,9 @@
 # interArt
 
 ![](./banner_cmi2.png)
+
+[CMI guía docente y horatios](https://directorio.ugr.es/static/InformacionAcademica/*/showAsignaturaGrados/260/27/11)
+
 Digital Interactive art / Muestra colectiva de arte interactivo 
 
 Muestra de trabajos de Creación Multimedia Interactiva 
