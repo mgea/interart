@@ -22,7 +22,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## Ejercicios de clase 
 
-* Ejercicios 2024 (usando Hippani) https://mgea.github.io/cmi24/  
+* Ejercicios 2024 (usando Hippani) https://mgea.github.io/CMI24/
 
 * Ejercicios 2025+ (usando Godot) en Itch.io  https://cmiugr.itch.io/
 
@@ -56,7 +56,7 @@ Tutoriales, ejercicios y ayuda de Godot 4.4:
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > 
 
-Febrero 2025 
+Febrero 2026 
 
 [Creacion Multimedia Interactiva](https://github.com/mgea/interart)
 
