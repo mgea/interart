@@ -16,7 +16,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## La muestra
 - [Ejemplo de proyectos interactivos seleccionados](./artistas/ejemplos.md)
-- [Hall of fame: Obras seleccionadas de alumnos de Bellas Artes](portfolio-cmi/README.md) 
+- [HALL OF FAME: Obras seleccionadas de alumnos de Bellas Artes](portfolio-cmi/README.md) 
 - [Artistas digitales seleccionados por los alumnos de clase](./artistas/readme.md)
 
 
