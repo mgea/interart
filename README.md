@@ -11,7 +11,7 @@ Facultad de Bellas Artes, Universidad de Granada
 
 ## La asignatura 
 
-- [CMI guía docente y horatios](https://directorio.ugr.es/static/InformacionAcademica/*/showAsignaturaGrados/260/27/11)
+- [CMI guía docente y horarios](https://directorio.ugr.es/static/InformacionAcademica/*/showAsignaturaGrados/260/27/11)
 
 
 ## La muestra
