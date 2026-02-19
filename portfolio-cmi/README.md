@@ -3,7 +3,7 @@
 ![](https://github.com/aliciaruizz/aliciaruizz.github.io/raw/main/menu.png) 
 (cooking yaya, aliciaruiz 2024) 
 
-Digital Interactive art / Muestra colectiva de arte interactivo 
+Digital Interactive art / Muestra colectiva de arte interactivo. Proyectos realizados con Godot Engine 4.6 
 
 
 
