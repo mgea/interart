@@ -19,6 +19,7 @@
    
    - Guia referencia HTML5:https://dev.w3.org/html5/html-author/
 
-   - Animation CSS: Create basic or complex CSS @keyframe animations with a visual timeline editor similar to video-editing software: https://keyframes.app/ 
+   - Animation CSS: Create basic or complex CSS @keyframe animations with a visual timeline editor similar to video-editing software: (obsoleto https://keyframes.app/) https://webcode.tools/css-generator/keyframe-animation
+   
 
   - Codepen (editando código open source) 3-2 responive grid of hexagons de CodePen, autor [web-tiki](https://codepen.io/web-tiki) https://codepen.io/web-tiki/pen/wWGeEM 
