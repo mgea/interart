@@ -38,8 +38,6 @@ Tutoriales, ejercicios y ayuda de Godot 4.4:
 ## Publicación proyectos
 
 * Plantilla de documentación del proyecto en Github [ejemplo](http://mgea.github.io/cmi) clonando este repositorio (https://github.com/mgea/cmi) 
-* Repositorio de publicación en itch.io - 
-
 
 
 
