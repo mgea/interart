@@ -27,6 +27,7 @@ La documentación y temporización se puede encontrar en https://github.com/mgea
   * Itch.io - https://annamallol.itch.io/la-classe-dels-pinguins
 
 
+* ADAY - 
 
 Point & Click 
 
@@ -35,6 +36,10 @@ Point & Click
   * Itch.io: https://elenanillo26.itch.io/el-bosquete
 
 
+
+Plataformas:
+
+* EL mundo de Pepo
 
 <br>
 
