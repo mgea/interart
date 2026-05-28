@@ -22,9 +22,17 @@ La documentación y temporización se puede encontrar en https://github.com/mgea
   * URL Github -https://github.com/gyaliaa/mirrorofcontempt/blob/master/README.md
   * URL Itch.io - https://gyalia.itch.io/mirror-of-contempt-wip
 
+* MALLOL GARCIA, ANNA - Pinguins
+  * Github - https://github.com/annamallol/la-classe-dels-pingus
+  * Itch.io - https://annamallol.itch.io/la-classe-dels-pinguins
+
 
 
 Point & Click 
+
+* ZORRILLA LARA, ELENA - EL BOSQUETE
+  * GitHub: https://elenanilllo.github.io/El-bosquete/#/
+  * Itch.io: https://elenanillo26.itch.io/el-bosquete
 
 
 
